@@ -6,7 +6,7 @@ npm install hmjson2excel
 
 # usage
 
-var hmjson2excel = require("./hmjson2excel")()
+var hmjson2excel = require("hmjson2excel")()
 
 var data = [{
     "a":"d"
